@@ -1,0 +1,24 @@
+---
+title: "useR2021 xaringan template"
+subtitle: ""
+author: ""
+institute: ""
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+# Some text 
+
+
+
+---
+
+
+# Some text again
