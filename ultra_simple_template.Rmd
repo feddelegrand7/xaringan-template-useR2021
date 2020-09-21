@@ -24,7 +24,7 @@ library(fontawesome)
 style_mono_accent(
   base_color = "#011F54", 
   background_color = "#E6E6E6",
-  title_slide_text_color = "#2F3941",
+  title_slide_text_color = "#011F54",
   title_slide_background_color = "#E6E6E6" , 
   inverse_background_color = "#2165B6",
   link_color = "#FF0000", 
@@ -34,8 +34,10 @@ style_mono_accent(
   title_slide_background_image = "img/logo.png", 
   title_slide_background_size = "9rem", 
   title_slide_background_position = "4% 4%", 
-  text_slide_number_color = "#FF0000", 
-  text_slide_number_font_size = "1.4rem"
+  text_slide_number_color = "#2165B6", 
+  text_slide_number_font_size = "1.4rem", 
+  text_color = "#011F54"
+  
 )
 
 ```
@@ -77,7 +79,20 @@ This is plain text
 
 # Some text again
 
+- ##bullet 1 
+- ##bullet 2
+ + ####bullet 2.1
+ + ####bullet 2.2
 
 ---
 
 # Again Some text
+
+---
+
+class:inverse,middle,center
+
+# Inversed Slide
+
+
+---

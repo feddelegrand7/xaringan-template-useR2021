@@ -42,7 +42,7 @@
   --header-h3-font-size: 1.75rem;
 
   /* Colors */
-  --text-color: #272822;
+  --text-color: #011F54;
   --header-color: #011F54;
   --background-color: #E6E6E6;
   --link-color: #FF0000;
@@ -52,7 +52,7 @@
   --inverse-background-color: #2165B6;
   --inverse-header-color: #FFFFFF;
   --title-slide-background-color: #E6E6E6;
-  --title-slide-text-color: #2F3941;
+  --title-slide-text-color: #011F54;
   --header-background-color: #011F54;
   --header-background-text-color: #E6E6E6;
   --base: #011F54;
@@ -101,7 +101,7 @@ h1, h2, h3 {
   color: #FF0000;
 }
 .remark-slide-number {
-  color: #FF0000;
+  color: #2165B6;
   opacity: 1;
   font-size: 1.4rem;
 }
