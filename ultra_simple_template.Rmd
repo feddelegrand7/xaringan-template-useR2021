@@ -19,10 +19,11 @@ output:
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
+library(fontawesome)
 
 style_mono_accent(
   base_color = "#011F54", 
-  background_color = "#D3D7D9",
+  background_color = "#E6E6E6",
   title_slide_text_color = "#2F3941",
   title_slide_background_color = "#E6E6E6" , 
   inverse_background_color = "#2165B6",
@@ -40,6 +41,27 @@ style_mono_accent(
 ```
 
 
+<!-- replace "img/logo.png" with the path of your picture if you want to add it -->
+
+<center>
+<img class="circle" src="img/logo.png" width="200px"/>
+</center>
+
+
+
+[`r fa(name = "twitter", 50)` @twitter-username](http://twitter.com/my_twitter_username)  
+
+[`r fa(name = "github", 50)` @github-username](http://github.com/my_github_username) 
+
+[`r fa(name = "id-card", 40)` Personal Website](https://my_website)  
+
+[`r fa(name = "mail-bulk", 40)` Email](mailto:my_email@email.com)
+
+
+
+ 
+
+---
 
 # Some text 
 
@@ -49,7 +71,6 @@ This is plain text
 
 `mean(mtcars$mpg)`
 
-####https://pkg.garrickadenbuie.com/xaringanthemer/
 
 ---
 
