@@ -44,17 +44,17 @@
   /* Colors */
   --text-color: #4B294A;
   --header-color: #4B294A;
-  --background-color: #EDEDD5;
+  --background-color: #FFFFFF;
   --link-color: #FF0000;
   --text-bold-color: #4B294A;
   --code-highlight-color: rgba(255,255,0,0.5);
   --inverse-text-color: #FFFFFF;
-  --inverse-background-color: #E5F5FF;
-  --inverse-header-color: #592D59;
-  --title-slide-background-color: #E5F5FF;
-  --title-slide-text-color: #592D59;
+  --inverse-background-color: #863888;
+  --inverse-header-color: #FFFFFF;
+  --title-slide-background-color: #88398A;
+  --title-slide-text-color: #FFFFFF;
   --header-background-color: #4B294A;
-  --header-background-text-color: #EDEDD5;
+  --header-background-text-color: #FFFFFF;
   --base: #4B294A;
   --white: #FFFFFF;
   --black: #272822;
