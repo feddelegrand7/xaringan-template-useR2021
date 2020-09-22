@@ -22,11 +22,11 @@ library(xaringanthemer)
 library(fontawesome)
 
 style_mono_accent(
-  base_color = "#011F54", 
-  background_color = "#E6E6E6",
-  title_slide_text_color = "#011F54",
-  title_slide_background_color = "#E6E6E6" , 
-  inverse_background_color = "#2165B6",
+  base_color = "#4B294A", 
+  background_color = "#FFFFFF",
+  title_slide_text_color = "#FFFFFF",
+  title_slide_background_color = "#88398A" , 
+  inverse_background_color = "#863888",
   link_color = "#FF0000", 
   code_inline_color = "#FF0000",
   header_h1_font_size = "3rem", 
@@ -34,9 +34,9 @@ style_mono_accent(
   title_slide_background_image = "img/logo.png", 
   title_slide_background_size = "9rem", 
   title_slide_background_position = "4% 4%", 
-  text_slide_number_color = "#2165B6", 
+  text_slide_number_color = "#B3B3B3", 
   text_slide_number_font_size = "1.4rem", 
-  text_color = "#011F54"
+  text_color = "#4B294A"
   
 )
 
