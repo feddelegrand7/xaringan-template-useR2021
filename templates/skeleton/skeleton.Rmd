@@ -3,7 +3,7 @@ title: "Your Title"
 author: "Your name"
 output:
   xaringan::moon_reader:
-    css: [libs/remark-css-0.0.1/useR.css, libs/remark-css-0.0.1/useR-fonts.css]
+    css: [useR, useR-fonts]
     lib_dir: libs
     nature:
       highlightStyle: github
