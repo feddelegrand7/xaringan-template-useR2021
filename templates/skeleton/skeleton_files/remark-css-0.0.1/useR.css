@@ -1,0 +1,44 @@
+.title-slide {
+  background-image: url("https://www.r-project.org/conferences/useR.png");
+  background-position: 5% 15% ;
+  background-size: 160px ;
+}
+
+.title-slide h1 {
+  position: absolute;
+  top: 60%;
+  left: 10%;
+  text-align: left;
+  color: #454647;
+}
+
+.title-slide h3 {
+  position: absolute;
+  top: 75%;
+  left: 10%;
+  text-align: left;
+  color: #454647;
+}
+
+.chapter-slide {
+  background-color: #1464b4;
+}
+
+.chapter-slide h1 {
+  position: absolute;
+  top: 55%;
+  left: 10%;
+  text-align: left;
+  color: #e8e8e8 ;
+}
+
+.inverse {
+  background-image: url("https://www.r-project.org/conferences/useR.png");
+  background-position: 8% 95% ;
+  background-size: 85px ;
+}
+
+.inverse h1, .inverse h2, .inverse h3 {
+  color: #454647;
+}
+

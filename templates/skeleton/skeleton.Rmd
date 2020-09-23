@@ -1,0 +1,35 @@
+---
+title: "Your Title"
+author: "Your name"
+output:
+  xaringan::moon_reader:
+    css: [useR, useR-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+    seal: false
+---
+
+class: title-slide
+
+# Your Title
+### Your name
+
+
+---
+class: chapter-slide
+
+# Chapter
+
+---
+
+## Header 2
+
+Some text
+
+### Header 3
+
+```{r}
+# some code
+seq(1:5)
+```
